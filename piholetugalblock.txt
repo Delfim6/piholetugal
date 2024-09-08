@@ -1,0 +1,12 @@
+# ----------------------------------------------------------
+# PI-HOLE PORTUGAL-SCAM BLOCKLIST
+# ----------------------------------------------------------
+# License: MIT License
+# ----------------------------------------------------------
+
+viagenstop.pt
+lojadoelectrodomestico.pt
+guess-portugal.pt
+vmcustomer.com
+guess.eu
+guesssaldosportugal.com
